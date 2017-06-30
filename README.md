@@ -21,3 +21,4 @@ e.g. The offset for USER is 2000.
 The PASS command is different in that the offset is 6102 in Windows 7.
 
 The exploit utilises a JMP ESP in SHELL32.dll which is located at '0x75e55d3f'
+
